@@ -165,6 +165,7 @@ class DataCollatorForSupervisedDataset(object):
             input_ids, batch_first=True, padding_value=self.tokenizer.pad_token_id
         )
         labels = torch.nn.utils.rnn.pad_sequence(labels, batch_first=True, padding_value=IGNORE_INDEX)
+        
         return dict(
             input_ids=input_ids,
             labels=labels,
@@ -176,7 +177,12 @@ def make_supervised_data_module(tokenizer: transformers.PreTrainedTokenizer, dat
     """Make dataset and collator for supervised fine-tuning."""
     train_dataset = SupervisedDataset(tokenizer=tokenizer, data_path=data_args.data_path)
     data_collator = DataCollatorForSupervisedDataset(tokenizer=tokenizer)
-    return dict(train_dataset=train_dataset, eval_dataset=None, data_collator=data_collator)
+    
+    return dict(
+        train_dataset=train_dataset, 
+        eval_dataset=None, 
+        data_collator=data_collator
+    )
 
 
 def train():
