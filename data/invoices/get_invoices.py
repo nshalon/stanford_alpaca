@@ -23,7 +23,8 @@ def get_secret(secret_name):
     return json.loads(secret)
 
 
-openai.api_key = get_secret("openai.com/cloud.admin@kognitos.com/api_key")["api_key"]
+openai.api_key = "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"
+#openai.api_key = get_secret("openai.com/cloud.admin@kognitos.com/api_key")["api_key"]
 
 
 def get_gpt_response(
@@ -52,11 +53,11 @@ def get_gpt_response(
 
 def get_invoice_details():
     res = []
-    for filename in os.listdir():
-        print(filename)
+    BASE_DIR = "./raw"
+    for filename in os.listdir(BASE_DIR):
         if filename.endswith('.eml'):
             # filename = "FW_ Bank of America Payment_Remittance Advice.eml"
-            body = get_eml_text(filename)
+            body = get_eml_text(f"{BASE_DIR}/{filename}")
             prompt = (
                 f"{body}\n"
                 "|Invoice number or document reference number|invoice amount|\n"
