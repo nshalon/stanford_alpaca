@@ -113,5 +113,5 @@ if __name__ == '__main__':
 
     df = pd.DataFrame(new_response)
     file_path = 'invoice_data_summarize.xlsx'
-    df.to_excel(file_path, index=False)
+    df.to_csv(file_path, index=False)
     #print(json.dumps(res, indent=4))
