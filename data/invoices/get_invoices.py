@@ -6,6 +6,8 @@ import cohere
 import eml_parser
 import openai
 import pandas as pd
+from typing import List
+import re
 
 from emlparse import get_eml_text
 
@@ -22,13 +24,11 @@ def get_secret(secret_name):
     secret = response["SecretString"]
     return json.loads(secret)
 
-
-openai.api_key = "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"
-#openai.api_key = get_secret("openai.com/cloud.admin@kognitos.com/api_key")["api_key"]
+openai.api_key = "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"
 
 
 def get_gpt_response(
-    messages: list,
+    messages: List,
     user: str = "koncierge",
     temperature: float = 0,
     max_tokens=800,
@@ -45,9 +45,7 @@ def get_gpt_response(
         presence_penalty=0,
         user=user,
     )
-    # TODO Check that response.choices[0].finish_reason == 'stop', else error
     result = response.choices[0]["message"]["content"].strip()
-    print(f"response from {model}: {result}")
     return result
 
 
@@ -58,35 +56,36 @@ def get_invoice_details():
         if filename.endswith('.eml'):
             # filename = "FW_ Bank of America Payment_Remittance Advice.eml"
             body = get_eml_text(f"{BASE_DIR}/{filename}")
+            body = re.sub('<!.*>', '', body.replace("\n", ""))
             prompt = (
                 f"{body}\n"
+                "Please provide an output which parses the above email with the following format and information you've extracted:"
                 "|Invoice number or document reference number|invoice amount|\n"
-                "|------------------------|-------------------|\n"
+                "|------------------------|-------------------|"
                 # "What are the document reference numbers or invoice numbers in the above?\n"
                 # "What are the corresponding invoice amounts in the above?"
             )
 
-            if False:
-                # generate a prediction for a prompt
-                prediction = co.generate(
-                    model='command-nightly',
-                    prompt=prompt,
-                    max_tokens=400,
-                    temperature=0.0,
-                )
-
-                print(prediction.data[0].text)
+            #if False:
+            #    # generate a prediction for a prompt
+            #    prediction = co.generate(
+            #        model='command-nightly',
+            #        prompt=prompt,
+            #        max_tokens=400,
+            #        temperature=0.0,
+            #    )
 
             try:
                 result = get_gpt_response(
                     messages=[{"role": "user", "content": prompt}], user="koncierge"
                 )
-            except:
+            except Exception as e:
                 continue
 
-            print(result)
             res.append(
                 {
+                    'filename': filename,
+                    'dir': BASE_DIR,
                     'prompt': prompt,
                     # 'cohere': prediction.data[0].text,
                     'chat-gpt': result,
@@ -103,14 +102,16 @@ if __name__ == '__main__':
         "Prompt": [],
         # "Cohere": [],
         "Chat-GPT": [],
+        "filename": [],
     }
 
     for r in res:
         new_response["Prompt"].append(r['prompt'])
         # new_response["Cohere"].append(r['cohere'])
         new_response["Chat-GPT"].append(r['chat-gpt'])
+        new_response["filename"].append(f"{r['dir']}/{r['filename']}")
 
     df = pd.DataFrame(new_response)
     file_path = 'invoice_data_summarize.xlsx'
     df.to_excel(file_path, index=False)
-    print(json.dumps(res, indent=4))
+    #print(json.dumps(res, indent=4))
