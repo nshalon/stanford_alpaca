@@ -24,7 +24,7 @@ def get_secret(secret_name):
     secret = response["SecretString"]
     return json.loads(secret)
 
-openai.api_key = "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"
+openai.api_key = get_secret("openai.com/cloud.admin@kognitos.com/api_key")["api_key"]
 
 
 def get_gpt_response(
