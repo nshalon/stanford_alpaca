@@ -1,0 +1,183 @@
+Received: from TYZPR03MB5725.apcprd03.prod.outlook.com (2603:1096:400:67::9)
+ by TYZPR03MB5486.apcprd03.prod.outlook.com with HTTPS; Tue, 28 Mar 2023
+ 01:34:57 +0000
+Received: from PS2PR03MB3909.apcprd03.prod.outlook.com (2603:1096:300:35::22)
+ by TYZPR03MB5725.apcprd03.prod.outlook.com (2603:1096:400:67::9) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.6222.28; Tue, 28 Mar
+ 2023 01:34:52 +0000
+Received: from PS2PR03MB3909.apcprd03.prod.outlook.com
+ ([fe80::32ad:ea7c:45fc:949d]) by PS2PR03MB3909.apcprd03.prod.outlook.com
+ ([fe80::32ad:ea7c:45fc:949d%6]) with mapi id 15.20.6222.033; Tue, 28 Mar 2023
+ 01:34:52 +0000
+From: AMJAD BAGBAN NISAR <amjad.bagban@wipro.com>
+To: FIFIDUS-Americas2 <FIFIDUS-Americas2@wipro.com>, AR RemittanceInfo
+	<AR.RemittanceInfo.ext@wipro.com>
+Subject: FW: Bank of America Payment/Remittance Advice
+Thread-Topic: Bank of America Payment/Remittance Advice
+Thread-Index: AQHZYQW8PzbOlxQzoEmWznRVQnrTN68PaJtw
+Date: Tue, 28 Mar 2023 01:34:51 +0000
+Message-ID:
+ <PS2PR03MB3909FFD91BD85429AC3FF21582889@PS2PR03MB3909.apcprd03.prod.outlook.com>
+References:
+ <584561912.1679960495607.JavaMail.emailrpt@smtp_mail.bankofamerica.com>
+In-Reply-To:
+ <584561912.1679960495607.JavaMail.emailrpt@smtp_mail.bankofamerica.com>
+Accept-Language: en-US, en-GB
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: PS2PR03MB3909.apcprd03.prod.outlook.com
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-Network-Message-Id:
+ e73c52d6-ed3c-44b9-d436-08db2f2ca049
+X-MS-TNEF-Correlator:
+X-MS-Exchange-Organization-RecordReviewCfmType: 0
+x-ms-exchange-organization-originalclientipaddress: 165.225.106.80
+x-ms-exchange-organization-originalserveripaddress: 2603:1096:300:35::22
+x-ms-publictraffictype: Email
+X-Microsoft-Antispam-Mailbox-Delivery:
+ ucf:0;jmr:0;auth:0;dest:I;ENG:(910001)(944506478)(944626604)(920097)(425001)(930097);
+X-Microsoft-Antispam-Message-Info:
+ 25ieZO2VgNMwAlCFrBOtb9PZV4F9OF5lS4hr4ANVvrsHHgUHUX2Q0I2SucUksHfufO6RhGIXR3n1WiL4Rc8W85YT5UJ0gkEe40Pjbv1481ikLGAo2bznccNj1INmPSNKrXBi8lOr/0z3yGa37yBEpXhxp773ZqwMyUhi8ywfIzhEhwFHMIhFzpcaDn+VWHBfXRwhk21C1UooXDEge8mycHZ8drJVG38ztnOD37Bt3DIy59KNE5sihdlXPg8YXlsgExKJFV31OFLuJeb6yPiS0cKKGhm/izIKFZd03U7aOgOFm+IhEeQMDf3ncjEPmYQ+P0L8LgtbCMfFPP3wnrTXXRZuq1jvlWcaNxHmpi0hTihA06lwhatlPzvY7svZUTMRpX4Bebqvy4mFzXKLjHB2LEQAbhyTnsPU3xjoAd0J0A5v6+L52pIJr6UA+U9bw73n6wMqoAKOvY8Q/pe1fAxdW/bmFXBoadoXbbR7wnwJzWOxENfz2SHzQC+cktUznYZJ5zbX9xbUfHTMtFMk1WB2riZz0uO7wUIHU4y/9gvLkqPZymOFyX898Cz6Kx77jP/pOjQ74r+waedhj5IxOi6WiYneTzh8olkYMRR+jUVhwwW5GwyUUd0SUroQ7Qa+neuhKxVqRrE9dxnBUIC9o9tTcg==
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+
+
+
+
+Regards
+
+Amjad Bagban- Manager (Finance)
+
+
+-----Original Message-----
+From: edi@bofa.com <edi@bofa.com>
+Sent: Tuesday, March 28, 2023 5:12 AM
+To: edebtors-usa <EDEBTORS-USA@WIPRO.COM>
+Subject: Bank of America Payment/Remittance Advice
+
+CAUTION:This email is received from an external domain. Open the hyperlink(=
+s) & attachment(s) with caution.
+.
+
+
+CREATED 27MAR23 16:33   BANK OF AMERICA-COACH                           PAG=
+E   1
+                        ELECTRONIC COMMERCE SERVICES
+                        INFORMATION REPORTING
+
+TO:  WIPRO LIMITED
+     PLOT NO 2, MIDC
+     PUNE 411027, INDIA
+
+FROM:    EMC CORPORATION
+         176 SOUTH STREET
+         HOPKINTON, MA 01748, UNITED STATES
+
+RECEIVER REFERENCE:
+
+  AMOUNT PAID                           : 1,991,882.26
+  CR/DR FLAG                            : CREDIT
+  PAYMENT METHOD                        : AUTOMATED CLEARING HOUSE (ACH)
+  BANK ID                               : 121000248
+  DEMAND DEPOSIT                        : xxxxxx4410
+  DATE                                  : 28-MAR-23
+  CURRENT TRANSACTION TRACE NUMBERS     : US2000001949
+  DESCRIPTION                           : 016545425
+  PAYER                                 : EMC CORPORATION
+  ADDRESS INFORMATION                   : 176 SOUTH STREET
+  ADDRESS                               : HOPKINTON
+  STATE OR PROVINCE                     : MA
+  POSTAL CODE                           : 01748
+  COUNTRY CODE                          : US
+  PAYEE                                 : WIPRO LIMITED
+  ADDRESS INFORMATION                   : PLOT NO 2, MIDC
+  ADDRESS                               : PUNE
+  POSTAL CODE                           : 411027
+  COUNTRY CODE                          : IN
+  REPORT TRANSMISSION CODE              : E-Mail
+  COMMUNICATION NUMBER                  : EDEBTORS-USA@WIPRO.COM
+  ASSIGNED NUMBER                       : 1
+---------------------------------------------------------------------------=
+-----
+SELLER'S INVOIC        AMOUNT PAID       DISCOUNT AMT    DATE       ORIGINA=
+L AMT
+90258959-2                  728.52               0.00 25JAN23             7=
+28.52
+90258959-3                11410.53               0.00 25JAN23           114=
+10.53
+90258959-4                41022.77               0.00 25JAN23           410=
+22.77
+90258959-5               140566.26               0.00 25JAN23          1405=
+66.26
+90258959-1                 5900.00               0.00 25JAN23            59=
+00.00
+90258959-6                12999.01               0.00 25JAN23           129=
+99.01
+90258986-1                  162.15               0.00 25JAN23             1=
+62.15
+90258959-8                 2948.75               0.00 25JAN23            29=
+48.75
+90258959-9                   22.50               0.00 25JAN23              =
+22.50
+90258986-4                 3383.20               0.00 25JAN23            33=
+83.20
+90258986-5               118924.07               0.00 25JAN23          1189=
+24.07
+90258986-2               154933.89               0.00 25JAN23          1549=
+33.89
+90258986-6                 2585.14               0.00 25JAN23            25=
+85.14
+90258986-3                33175.44               0.00 25JAN23           331=
+75.44
+90258986-7                28637.23               0.00 25JAN23           286=
+37.23
+90258986-9                29338.62               0.00 25JAN23           293=
+38.62
+90258986-12               20471.55               0.00 25JAN23           204=
+71.55
+90258986-8               130634.16               0.00 25JAN23          1306=
+34.16
+90258986-11              171090.12               0.00 25JAN23          1710=
+90.12
+90258986-13               18869.13               0.00 25JAN23           188=
+69.13
+90258986-10              127200.09               0.00 25JAN23          1272=
+00.09
+90258986-15                2827.50               0.00 25JAN23            28=
+27.50
+90258988-2                  282.99               0.00 25JAN23             2=
+82.99
+90258986-14               50000.00               0.00 25JAN23           500=
+00.00
+90258988-1                  384.56               0.00 25JAN23             3=
+84.56
+90259003-1                72384.96               0.00 25JAN23           723=
+84.96
+90258988-4               108653.78               0.00 25JAN23          1086=
+53.78
+90259003-2                11526.30               0.00 26JAN23           115=
+26.30
+90259003-6                64639.34               0.00 26JAN23           646=
+39.34
+90259003-7                  202.50               0.00 26JAN23             2=
+02.50
+90258988-3                67391.37               0.00 25JAN23           673=
+91.37
+90259003-4                15840.00               0.00 26JAN23           158=
+40.00
+90259003-3                38016.00               0.00 26JAN23           380=
+16.00
+90259003-5               306560.40               0.00 26JAN23          3065=
+60.40
+90258959-7                59392.57               0.00 25JAN23           593=
+92.57
+90258959-10              138776.86               0.00 25JAN23          1387=
+76.86
+---------------------------------------------------------------------------=
+-----
+                              - END OF REPORT - FOR QUESTIONS, CONTACT EMC =
+CORPORATION
+

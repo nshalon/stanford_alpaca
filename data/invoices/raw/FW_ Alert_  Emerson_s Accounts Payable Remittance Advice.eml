@@ -1,0 +1,87 @@
+Received: from KL1PR0302MB5188.apcprd03.prod.outlook.com (2603:1096:820:49::7)
+ by KL1PR03MB5475.apcprd03.prod.outlook.com with HTTPS; Wed, 29 Mar 2023
+ 04:59:49 +0000
+Received: from PS2PR03MB3909.apcprd03.prod.outlook.com (2603:1096:300:35::22)
+ by KL1PR0302MB5188.apcprd03.prod.outlook.com (2603:1096:820:49::7) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.6222.33; Wed, 29 Mar
+ 2023 04:59:41 +0000
+Received: from PS2PR03MB3909.apcprd03.prod.outlook.com
+ ([fe80::32ad:ea7c:45fc:949d]) by PS2PR03MB3909.apcprd03.prod.outlook.com
+ ([fe80::32ad:ea7c:45fc:949d%6]) with mapi id 15.20.6222.033; Wed, 29 Mar 2023
+ 04:59:41 +0000
+From: AMJAD BAGBAN NISAR <amjad.bagban@wipro.com>
+To: FIFIDUS-Americas2 <FIFIDUS-Americas2@wipro.com>, "fifidus-mfg@wipro.com"
+	<fifidus-mfg@wipro.com>, AR RemittanceInfo <AR.RemittanceInfo.ext@wipro.com>
+Subject: FW: Alert:  Emerson's Accounts Payable Remittance Advice
+Thread-Topic: Alert:  Emerson's Accounts Payable Remittance Advice
+Thread-Index: AQHZYcDasgeu+UEzYE25a1YsyDIq7K8RMqog
+Date: Wed, 29 Mar 2023 04:59:40 +0000
+Message-ID:
+ <PS2PR03MB3909816E536EB93B22A9741482899@PS2PR03MB3909.apcprd03.prod.outlook.com>
+References: <30943067.28598.1680040856484.JavaMail.welena@emerson.com>
+In-Reply-To: <30943067.28598.1680040856484.JavaMail.welena@emerson.com>
+Accept-Language: en-US, en-GB
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: PS2PR03MB3909.apcprd03.prod.outlook.com
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-Network-Message-Id:
+ 843a1138-7656-4020-5e7d-08db3012680b
+X-MS-TNEF-Correlator:
+X-MS-Exchange-Organization-RecordReviewCfmType: 0
+x-ms-exchange-organization-originalclientipaddress: 165.225.106.86
+x-ms-exchange-organization-originalserveripaddress: 2603:1096:300:35::22
+x-ms-publictraffictype: Email
+X-Microsoft-Antispam-Mailbox-Delivery:
+ ucf:0;jmr:0;auth:0;dest:I;ENG:(910001)(944506478)(944626604)(920097)(425001)(930097);
+X-Microsoft-Antispam-Message-Info:
+ g9dHsz9x/uN8uBcDiLEOlepUDQnQo7qJj/efT031ybEAwBsoJOs6+h9PX1ovVoaGdL+m1vmiVL9IrSCx3QJ9+9t7hg4aWKB1v0IgMO8RhDxvn4VjwSnRKiov8m70wRvnAjdgRFE1vbOGiBOpe/iILpbj5WOWZcMijWKAQxFtSTReY8ro01v3XWDhTt9sMaMNrqD+YgBeiuufN5WftFJZmQSnAbJl04FPAKpqWpGiBFLMt9Kj3+qXxoVNbmFSazL/jIlNJ5xslxZ03iWIsqfRFrKxa+/CzOH17aHygpjlcQwxTwIr+nk/OXQ7wsWyZafsMV9Xe+yt8/t08xTCnuipUVWtN7FlS+xmPnFn5nZU69cWxC07o0HatpaTmkxxuPJtUjRIjOZ5rta3DUDfdu/u/aIie/6APs5vzP8QZZjz/RJn0BBPPyD3p0JxMuRTlwd33zhKtGPjnD6XQU/cWFIQMw2upYxl37Dnx9YxvisaO56dBiFvCJJ8/8veQXOPUt2cpVKwwoPLnfyIYKsT3wyIRF4d8irbYCMT2g3y5gVPLRXGZBr9uQPkm/nd7DZPoYZGxMwVmgmiFGnIgrepNtdtk8K2UcP65Y5UBe9phBnePyPtU7TbB6//fWBckYiVTmUTNTZaCaIly8nvA2c1L58FSA==
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+
+
+
+
+Regards
+
+Amjad Bagban- Manager (Finance)
+
+
+-----Original Message-----
+From: Workflow Mailer - Elena <APSSC.HELPDESK@EMRSN.COM>
+Sent: Wednesday, March 29, 2023 3:31 AM
+To: edebtors-usa <edebtors-usa@wipro.com>
+Subject: Alert: Emerson's Accounts Payable Remittance Advice
+
+CAUTION:This email is received from an external domain. Open the hyperlink(=
+s) & attachment(s) with caution.
+.
+
+
+Vendor:   WIPRO LIMITED        vendor_number:   110001025
+
+The Emerson Accounts Payable department will deposit money into your bank a=
+ccount on 29-MAR-2023.  The payment number is 110000000113554 with a total =
+dollar amount of $     10500.00 USD.
+
+For reference purposes the following invoices have been remitted for paymen=
+t"
+
+           Invoice Number:  961538739
+           Invoice Date:  27-FEB-2023
+           Discount Taken:  $0
+           Amount Paid:  $      5775.00
+           Invoice Number:  961538678
+           Invoice Date:  16-FEB-2023
+           Discount Taken:  $0
+           Amount Paid:  $      4725.00
+
+For inquiries contact the Emerson AP Department either by telephone at numb=
+er 314-553-2400 or through the following web site: -
+
+---  This email was automatically generated; do not reply to this message -=
+--
+

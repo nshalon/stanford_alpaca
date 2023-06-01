@@ -1,0 +1,218 @@
+Received: from TYZPR03MB7202.apcprd03.prod.outlook.com (::1) by
+ KL1PR03MB5475.apcprd03.prod.outlook.com with HTTPS; Fri, 31 Mar 2023 06:08:51
+ +0000
+Received: from PUZPR03MB5962.apcprd03.prod.outlook.com (2603:1096:301:b2::13)
+ by TYZPR03MB7202.apcprd03.prod.outlook.com (2603:1096:400:333::7) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.6222.28; Fri, 31 Mar
+ 2023 06:08:08 +0000
+Received: from PUZPR03MB5962.apcprd03.prod.outlook.com
+ ([fe80::fe4e:99f5:96f:fa23]) by PUZPR03MB5962.apcprd03.prod.outlook.com
+ ([fe80::fe4e:99f5:96f:fa23%9]) with mapi id 15.20.6178.041; Fri, 31 Mar 2023
+ 06:08:07 +0000
+From: Abhijit Ratnakar Rajurkar <abhijit.rajurkar@wipro.com>
+To: FIFIDUS-APMEA2 <FIFIDUS-APMEA2@wipro.com>, FIFIDUS-Americas2
+	<FIFIDUS-Americas2@wipro.com>, AR RemittanceInfo
+	<AR.RemittanceInfo.ext@wipro.com>
+Subject: FW: ANZ EFT Remittance Advice Notification
+Thread-Topic: ANZ EFT Remittance Advice Notification
+Thread-Index: AQHZYjn+u7oHeTtg7EWjm7bF7hzG4K8UZ4sw
+Date: Fri, 31 Mar 2023 06:08:07 +0000
+Message-ID:
+ <PUZPR03MB5962C23AE17DC93A967DF5909B8F9@PUZPR03MB5962.apcprd03.prod.outlook.com>
+References: <1070006809.107.1680092801399@ppuma11l>
+In-Reply-To: <1070006809.107.1680092801399@ppuma11l>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: PUZPR03MB5962.apcprd03.prod.outlook.com
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-Network-Message-Id:
+ fb9daabb-9ce6-4ad5-22d1-08db31ae4c5c
+X-MS-TNEF-Correlator:
+X-MS-Exchange-Organization-RecordReviewCfmType: 0
+msip_labels: MSIP_Label_f65b3423-ec78-4b3c-9693-96b88a3857c2_Enabled=true;
+ MSIP_Label_f65b3423-ec78-4b3c-9693-96b88a3857c2_SetDate=2023-03-31T05:59:47Z;
+ MSIP_Label_f65b3423-ec78-4b3c-9693-96b88a3857c2_Method=Standard;
+ MSIP_Label_f65b3423-ec78-4b3c-9693-96b88a3857c2_Name=Internal to Wipro;
+ MSIP_Label_f65b3423-ec78-4b3c-9693-96b88a3857c2_SiteId=258ac4e4-146a-411e-9dc8-79a9e12fd6da;
+ MSIP_Label_f65b3423-ec78-4b3c-9693-96b88a3857c2_ActionId=83681970-748b-4a85-872d-ee6474c42e62;
+ MSIP_Label_f65b3423-ec78-4b3c-9693-96b88a3857c2_ContentBits=2
+x-ms-exchange-organization-originalclientipaddress: 203.145.180.53
+x-ms-exchange-organization-originalserveripaddress: 2603:1096:301:b2::13
+x-ms-publictraffictype: Email
+X-Microsoft-Antispam-Mailbox-Delivery:
+ ucf:0;jmr:0;auth:0;dest:I;ENG:(910001)(920097)(425001)(930097);
+X-Microsoft-Antispam-Message-Info:
+ mzmXJNBr3UyTCMtDz1g4S3bGGJPFXx6mKnyE7/ahH0Tr0CAdf1igu+4o+CIghwnfX9Coo/mdCwnire4Eocaz4fjFYs4kEaCxgvDKmeuAzER7g7K6mZZsoYeoUSAkVtsYpwjmyeJoSlh5O94XXJUz5KcqJm0Cb9ibQGAvCVyRoWXfdCEDjyT51uB9CCQ3n67qAl4DeUA4dA4PRvyX4cqX3yHNYVPvq78SSTmrzGlfLaB50+/B3FCchgzh5RwzURjA6qC/kiZv4GXGIDMuJc/fucsfEt7worG8Qa5lBOggyvXr/6+syrnI9puO7i+tK2u+llSCwr5XtB1iECJ3MDy7mN2wPNkOFj1EuaffGUeXbXmDK2BG4zkUe1hOvfZUEW0nOTTyTN5pk1z+Olgr1uowkbl+6OU4aN+7rMWX9DpjAT2vo9rvvSy6gKLj5XHQpg2HdXTGK5D1cHUXpCZTZ/PyPHMR+LO/8A9Z71dSwTq57hMsCgCFxGLKGMtdJKukkbJPA+UtghP1L/p5qKtJysdVH4DhgluFL4EhyGdv1Fk6fjraxbVWmRYLjNqtgHZYjwzLfOObtkffLSwfwRUTHOycQquc5BXTWWaXczSoLN2/NUqKf4r/avq+Bv/WSXPeXWwF
+Content-Type: multipart/mixed;
+	boundary="_002_PUZPR03MB5962C23AE17DC93A967DF5909B8F9PUZPR03MB5962apcp_"
+MIME-Version: 1.0
+
+--_002_PUZPR03MB5962C23AE17DC93A967DF5909B8F9PUZPR03MB5962apcp_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+
+
+
+
+
+Thanks & Regards,
+
+Abhijit Rajurkar
+
+
+Internal to Wipro
+
+-----Original Message-----
+From: ssephd@anz.com <ssephd@anz.com>
+Sent: Wednesday, March 29, 2023 5:57 PM
+To: suwetha.gopal@wipro.com; edebtors-others <edebtors-others@wipro.com>
+Subject: ANZ EFT Remittance Advice Notification
+
+CAUTION:This email is received from an external domain. Open the hyperlink(=
+s) & attachment(s) with caution.
+.
+
+
+Dear Supplier,
+
+Please find attached an electronic copy of your EFT Remittance Advice. This=
+ corresponds to an EFT Payment that has been made to your account in regard=
+s to goods or services recently supplied to ANZ.
+
+If you are experiencing problems reading this attached remittance advice, p=
+lease download the latest version of the Free Adobe Acrobat Reader.
+
+For all Accounts Payable queries please reach the contact points below:
+New Zealand           : email - ssshelpdesk@anz.com
+Australia                  : call - 1800 770 373 (between 9am to 5pm, Austr=
+alian business hours)
+Indonesia                : e-mail - ID-AccountPayable@anz.com
+UK                           : e-mail - AccountsPayable.ANZUK@anz.com
+Other Countries      : e-mail - ANZSourcing@in.ibm.com
+
+This is system generated email; do not reply to this email.
+
+Thank you
+---------------------------------------------------------------------------=
+--------------------------
+This e-mail and any attachments to it (the "Communication") is, unless othe=
+rwise stated, confidential, may contain copyright material and is for the u=
+se only of the intended recipient. If you receive the Communication in erro=
+r, please notify the sender immediately by return e-mail, delete the Commun=
+ication and the return e-mail, and do not read, copy, retransmit or otherwi=
+se deal with it. Any views expressed in the Communication are those of the =
+individual sender only, unless expressly stated to be those of Australia an=
+d New Zealand Banking Group Limited ABN 11 005 357 522, or any of its relat=
+ed entities including ANZ Bank New Zealand Limited (together "ANZ"). ANZ do=
+es not accept liability in connection with the integrity of or errors in th=
+e Communication, computer virus, data corruption, interference or delay ari=
+sing from or in respect of the Communication.
+
+This e-mail and any attachments to it (the "Communication") is, unless othe=
+rwise stated, confidential, may contain copyright material and is for the u=
+se only of the intended recipient. If you receive the Communication in erro=
+r, please notify the sender immediately by return e-mail, delete the Commun=
+ication and the return e-mail, and do not read, copy, retransmit or otherwi=
+se deal with it. Any views expressed in the Communication are those of the =
+individual sender only, unless expressly stated to be those of Australia an=
+d New Zealand Banking Group Limited ABN 11 005 357 522, or any of its relat=
+ed entities including ANZ Bank New Zealand Limited (together "ANZ"). ANZ do=
+es not accept liability in connection with the integrity of or errors in th=
+e Communication, computer virus, data corruption, interference or delay ari=
+sing from or in respect of the Communication.
+
+--_002_PUZPR03MB5962C23AE17DC93A967DF5909B8F9PUZPR03MB5962apcp_
+Content-Type: application/octet-stream; name="ANZAU0000029520MAIN.pdf"
+Content-Description: Payment Advice.pdf
+Content-Disposition: attachment; filename="ANZAU0000029520MAIN.pdf";
+	size=4592; creation-date="Wed, 29 Mar 2023 12:28:41 GMT";
+	modification-date="Mon, 03 Apr 2023 06:24:57 GMT"
+Content-ID: <2FB82DD2AFF409428CBE9D650BEAFD12@apcprd03.prod.outlook.com>
+Content-Transfer-Encoding: base64
+
+JVBERi0xLjYNCjYgMCBvYmoNCjw8DQovVHlwZSAvWE9iamVjdA0KL1N1YnR5cGUgL0ltYWdlDQov
+RmlsdGVyIC9GbGF0ZURlY29kZQ0KL0xlbmd0aCAxMTM2DQovV2lkdGggMTAzDQovSGVpZ2h0IDM1
+DQovQml0c1BlckNvbXBvbmVudCA4DQovQ29sb3JTcGFjZSAvRGV2aWNlUkdCDQo+Pg0Kc3RyZWFt
+DQrbn4m9XNOzQXjmMJ4jZWRTv4YXsgyF82eqOBbVtO1eCYjXAuNS0d7PSXwdrNsK8e++K1atDBDF
+AngIGECD/FpOeP26HF5YeQwv6T2h50siom/JPn5kvXulVg7uqlZ6fualpNtSkmVfIui2v0Mt4R2C
+7xOQDcjP7IcgYWLGpTOdsoYBvSgNVMqzh/LSBG6oZ075haY3X11VMbkHPPADr3Y0qCcCURVQOslk
+FrDk11hM98rVhRCK3NU/OyAuPHmymzqKfFofQ/tp4nujnGlGccKVM4Zoc7hTD6+z6lZ8l6OXGOOb
+5r6ajEovl/qj+11IiOH6DR26/bmordd8CsFq1oHtvHX086JlZqrws7udDEIwXfwtZb5oeA6Y4+e8
+24WUvrqVbZ+jSQfoI/Qi79c7MrKIX55ZR+KCiqPLurVCoMzuEAutGxGyPuRF4VZUcLhVHcsTFrL7
+INMwMgkREQ1vg/M5Mxxvv6XkPT+nTH+h9cjNbJ2nftfcdAbJ7uApd4dnAeLGnMnUvbWfjM/XnnH6
+LhTZ3w0GNaoU0U3uWCrcjcg3GcymUu3qo/UEvZt8/h4YsLHBPyefan/UFsLRAFdU6AOcLIwFSIQ2
+g6X1s1A7DJv24wzcMGgXkqpVJFquykvNaKch1YYrx8Us75wrnJVkb6J7q86EDuhnSE39ke8xsHpC
+lb3RnE2/3R0D41Uzh3Phpsoy92FJrI2fp1DcxRRbtnMyI7LzHW25RiwpGlEXC6BH6xeBFAuqJss7
+D4M2oUp62Kdu2HBlqknVNtD22Ef4QQ+ijHkWxrjajpRIRjLwT2t01+nQYSCPyyzaCAQXCJwr/fxE
+rKktxUDMpAJTapI5O9docw2DZTTuXDyu78+MCcRxiRE9ycanaKkaBYamo+qxqURGpp8N//Q/nMd2
+QEw2G9T2e0I63wiY7gvG+JqrfJFo8fYI9uqN5qDCZ0J61wxustKVZMIYSYso+JQKqxCap6gwTcbt
+wZWX2zwm2q6vIrrXN66+y+1z1Ck7mrrC7x2qJC92pY9jbP165c8uWMNxB8uIPWDYlD4T3ZEZiHmo
+zo8V759UPON0DSe6ENC/61CJOq6jIG1DjTRUMeHeBBvkiilMGw8eWq4TiU0b/luM4xgE66cRBCo2
+oYrj3Hmcads+DSgdoMOirNhejfXP+Rjg1YjEYAsyoqJs+GC3kOHYUrSDVo834EMP9rEYcS9XhRge
+juFs0fKVCarM6nYYAKXAH/h9EQzK169mlRAFh7smLZd8KT/9HIV4KJG8VgUtT8biwUIl2WpBEfWh
+r9os4dbywrlmcBhRlJ/6VNow5DBfyr6JP1qfuzfV7sOP0x27Re+FOWLCT2X1N67SeEsuMW4jjEQu
+iq3WtZdacX66uEYxjis2CxbnB1T4VYvu3lz0dYIPg2k+XpvSERbIEf53r7bFBjgJ2kFo0Ib1d1Lp
+ilIS9AExjY6EnMDAHRZ1JpiLXJP/0UY2i8xF5B9sUhyXItoK7LGZ59r/w8x9jjN/OE+8Uwtxww0K
+ZW5kc3RyZWFtDQplbmRvYmoNCjExIDAgb2JqDQo8PC9UeXBlL1hPYmplY3QvU3VidHlwZS9Gb3Jt
+L0Zvcm1UeXBlIDEvQkJveFswIDAgNzkyLjAgNjEyLjBdIC9MZW5ndGggMTI4IC9GaWx0ZXIgL0Zs
+YXRlRGVjb2RlID4+DQpzdHJlYW0NCuUj3u/aSr/2YOglNNpZ/BMlLZTxKIbOQe2ZB79Rc5k1vnbH
+ML1rEIs4zGF+K9abxNXTdSigxV0UVNI22n7XX9ShrBzxOOAlJHBZ3Thbyxm+A7Pyyxf8942OAyiG
+lryJ/69dez4A/15B9SsTCdKakZSL+hObzYyvelO+ZtBjqPGQDQplbmRzdHJlYW0NCmVuZG9iag0K
+OCAwIG9iag0KPDwgL0xlbmd0aCAxMTA0IC9GaWx0ZXIgL0ZsYXRlRGVjb2RlID4+DQpzdHJlYW0N
+CrkH2otSgncP9XR0FHX2gelVUV6Ueg5MfP/5k3YClH12Db10VcUaqSy4obop0rWR/7NQTZv3FRXf
+WwVw0JLPuHqI9b2uI2knRHyTlwBfykLZyeoQW0dLhQ9Sg7jYTHo8q2UkyBspdo2h0+3k9WgjzZHs
+l+GcaIwLRMxqfTB3QZWhXnUDAXl0lTtUQdZuMI/P/4KdC+6mc+JQnKzTsIkbKshT+g/tc6CQ0i+H
+ZgfzTHnmdq3KtygI7nLrzX4OBe1LyKpWsP+NZRVTU5BSaLe63GOcHX0tvR/tyEOfq5Ti+wUlrZgE
+CzeMAC5jZHxZ4V9k5i7+S7N1cYZWrZcvzfDuhiJ6drxk+hmOp038IuT9KzPZURYBy81lwWpsL14o
+2C9Jtq5v5Cd5935aF2jEiWCChI93EdqZ69LMKZJGlSHuZSju9xR1NP6H3xDHFu4asSEjQTSYgXzI
+7JnUDSpBYmNFkBqpKh9EhzFcHGqBCbgjXY3rIeJmtw9NPXAeewjyHzXuAC6Zmdd8GvwWfDvelvKs
+jmMVKGvW25T5I9f3Nj32JDMOc2WO0G8MMFL/4lNi8+nsufWKs8aBSnyLFzP9UIm/IQCQsQV+pjAV
+nzx/Wm5GYvNYs9NYb4N5ksvkUMUOk79VGG1juvRY8XunJgjAa9ePNY/CIdZwq307BSV+yfRwHFUW
+9OTinShPud/q7T1nfll9C5mJR8oDSMseRxSJ+GJG5DjTcNmnxZq8dRjFhivxRlJ0KcXoRnVWy0Ml
+E99LDMZw1Rfq8VxomAv7Fg+WPLABsxBr96A+0KSCDCo9T40QMluEfknArsqP1Jw0wzPU2Knmmnaf
+S7Y/y8YH8+paTiJKk5uc3ACuk4HbbX0QG8oIUF5RNCq+ZEw9MATkAVogb2oXJlzGs+1yYkbMxJCQ
+OrMnIyiiUFq4mpUFVXQnydB0AW/38hd+wgTzxTcTyVkXe/rrJuYuuy4S/mS0i3sXPIjP3cNdKag3
+8Jx/2WfYUGwVpPKbBpBt6Rq/FrQJe3+Bk7xkoTQbFYJIDbwmDB3MSnsbDrCI1+PueoOucvyQh8QW
+No9JF9OcO0HJHYPl9u7JdN3DdPoDrxf0MKZDq+36PqRz6zNbuUOc57fkKaQ2cfqdcQfu7MHZ+iWo
+KrPvn20znjJGyra/2d3M/6TsNp2DWkm2e8k2C9aS4NqeAk4683x2aZDeUIrDTYWmTzDlhiiZEDn3
+fuJtUntgso6ukKLpPd2goTCdIXCkU5eI6KN3rVBJ6VywdmA39u9DIU+1wJ+vNSrc/8uzrem1/Z+Z
+PzgpD2CPN2veqfFaxfZpVfIuYbQPrOyUiBwfgJJ0/bZZ0Yae0aDnN9R74A8J1VB3GPhZWM7UjLnD
+aKK6xNZB7PWKosFEqq62qKAXSpbOvxjMRNUeQB/bLYnRcsRd4VQ02GOISQUUVa1erfMtY6nazEOA
+IkU5L2ZOR88sVaDUjg8aHB+wUBsTpw0KZW5kc3RyZWFtDQplbmRvYmoNCjEgMCBvYmoNCjw8DQov
+RmlsdGVyIC9TdGFuZGFyZA0KL08gKDZFG9OddTt8HRCSLFwo5mZapPM1P7A0i1Nok+Ox21xcV5sp
+DQovVSAof97zyqzjdqV7IHABvAunUgAAAAAAAAAAAAAAAAAAAAApDQovUCAtMTM0MA0KL1IgNA0K
+L1YgNA0KL0xlbmd0aCAxMjgNCi9DRjw8L1N0ZENGPDwvTGVuZ3RoIDE2L0F1dGhFdmVudC9Eb2NP
+cGVuL0NGTS9BRVNWMj4+Pj4NCi9TdHJGL1N0ZENGDQovU3RtRi9TdGRDRg0KPj4NCmVuZG9iag0K
+MiAwIG9iag0KPDwNCi9UeXBlIC9DYXRhbG9nDQovUGFnZXMgNCAwIFINCj4+DQplbmRvYmoNCjMg
+MCBvYmoNCjw8DQovVHlwZSAvSW5mbw0KL1Byb2R1Y2VyICjIwhM71chdllM0PeIFym4bPXh4p+kw
+V37Jm5RhpJnewcrozSx53q5P1oZsis1nXHSfKQ0KPj4NCmVuZG9iag0KNCAwIG9iag0KPDwNCi9U
+eXBlIC9QYWdlcw0KL0tpZHMgWw0KNyAwIFINCl0NCi9Db3VudCAxDQo+Pg0KZW5kb2JqDQo1IDAg
+b2JqDQo8PA0KL1Byb2NTZXQgWyAvUERGIC9UZXh0IF0NCi9Gb250IDw8IA0KL0YxIDkgMCBSDQov
+RjIgMTAgMCBSDQovRjMgMTIgMCBSDQovRjQgMTMgMCBSDQo+Pg0KL1hPYmplY3QgPDwgDQovSW0w
+IDYgMCBSDQovZngwIDExIDAgUg0KPj4NCj4+DQplbmRvYmoNCjcgMCBvYmoNCjw8DQovVHlwZSAv
+UGFnZQ0KL1BhcmVudCA0IDAgUg0KL1Jlc291cmNlcyA1IDAgUg0KL0NvbnRlbnRzIDggMCBSDQov
+TWVkaWFCb3hbIDAgMCA3OTIuMCA2MTIuMCBdDQovQ3JvcEJveFsgMCAwIDc5Mi4wIDYxMi4wIF0N
+Ci9Sb3RhdGUgMA0KPj4NCmVuZG9iag0KOSAwIG9iag0KPDwNCi9UeXBlIC9Gb250DQovU3VidHlw
+ZSAvVHlwZTENCi9CYXNlRm9udCAvSGVsdmV0aWNhLUJvbGQNCi9FbmNvZGluZyAvV2luQW5zaUVu
+Y29kaW5nDQo+Pg0KZW5kb2JqDQoxMCAwIG9iag0KPDwNCi9UeXBlIC9Gb250DQovU3VidHlwZSAv
+VHlwZTENCi9CYXNlRm9udCAvSGVsdmV0aWNhDQovRW5jb2RpbmcgL1dpbkFuc2lFbmNvZGluZw0K
+Pj4NCmVuZG9iag0KMTIgMCBvYmoNCjw8DQovVHlwZSAvRm9udA0KL1N1YnR5cGUgL1R5cGUxDQov
+QmFzZUZvbnQgL1RpbWVzLVJvbWFuDQovRW5jb2RpbmcgL1dpbkFuc2lFbmNvZGluZw0KPj4NCmVu
+ZG9iag0KMTMgMCBvYmoNCjw8DQovVHlwZSAvRm9udA0KL1N1YnR5cGUgL1R5cGUxDQovQmFzZUZv
+bnQgL1RpbWVzLUJvbGQNCi9FbmNvZGluZyAvV2luQW5zaUVuY29kaW5nDQo+Pg0KZW5kb2JqDQox
+NCAwIG9iag0KWyA3IDAgUiAvWFlaIDMxLjcgMjQyLjQ1IG51bGwgXQ0KZW5kb2JqDQoxNSAwIG9i
+ag0KWyA3IDAgUiAvWFlaIDMxLjcgMjQyLjQ1IG51bGwgXQ0KZW5kb2JqDQp4cmVmDQowIDE2DQow
+MDAwMDAwMDAwIDY1NTM1IGYNCjAwMDAwMDI3NzkgMDAwMDAgbg0KMDAwMDAwMzAyMSAwMDAwMCBu
+DQowMDAwMDAzMDc2IDAwMDAwIG4NCjAwMDAwMDMxNzcgMDAwMDAgbg0KMDAwMDAwMzI0NSAwMDAw
+MCBuDQowMDAwMDAwMDEwIDAwMDAwIG4NCjAwMDAwMDM0MDAgMDAwMDAgbg0KMDAwMDAwMTU5NiAw
+MDAwMCBuDQowMDAwMDAzNTU4IDAwMDAwIG4NCjAwMDAwMDM2NjggMDAwMDAgbg0KMDAwMDAwMTMz
+MCAwMDAwMCBuDQowMDAwMDAzNzc0IDAwMDAwIG4NCjAwMDAwMDM4ODIgMDAwMDAgbg0KMDAwMDAw
+Mzk4OSAwMDAwMCBuDQowMDAwMDA0MDQwIDAwMDAwIG4NCnRyYWlsZXINCjw8DQovU2l6ZSAxNg0K
+L1Jvb3QgMiAwIFINCi9JbmZvIDMgMCBSDQovRW5jcnlwdCAxIDAgUg0KL0lEIFs8YzMwMDZiNWVl
+NDg3ZWZkNzA1NDZkODU0ODUzZTRjYzY+PGMzMDA2YjVlZTQ4N2VmZDcwNTQ2ZDg1NDg1M2U0Y2M2
+Pl0NCj4+DQpzdGFydHhyZWYNCjQwOTENCiUlRU9GDQo=
+
+--_002_PUZPR03MB5962C23AE17DC93A967DF5909B8F9PUZPR03MB5962apcp_--
